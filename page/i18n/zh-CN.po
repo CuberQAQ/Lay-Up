@@ -1,0 +1,74 @@
+msgid "startGame"
+msgstr "开始游戏"
+msgid "startSet"
+msgstr "设置"
+msgid "setTitle"
+msgstr "游戏设置"
+msgid "setHighFPSTitle"
+msgstr "高帧率模式"
+msgid "setHighFPSOn"
+msgstr "60 FPS"
+msgid "setHighFPSOff"
+msgstr "30 FPS"
+msgid "setDifTitle"
+msgstr "游戏难度"
+msgid "setDiffButton"
+msgstr "更改"
+
+
+msgid "difficulty1"
+msgstr "简单"
+msgid "difficulty2"
+msgstr "一般"
+msgid "difficulty3"
+msgstr "困难"
+msgid "difficulty4"
+msgstr "难到离谱"
+
+
+msgid "setAuthorTitle"
+msgstr "开发者"
+
+msgid "setFinish"
+msgstr "完成"
+
+
+msgid "perfectText"
+msgstr "完美贴合"
+
+
+msgid "setShowFPSTitle"
+msgstr "显示帧率"
+
+
+msgid "setShowFPSSubText"
+msgstr "在游戏界面顶部显示实时帧率"
+
+msgid "overScoreTitle"
+msgstr "分数"
+msgid "overPerfectTitle"
+msgstr "连击"
+
+
+msgid "backButton"
+msgstr "返回"
+
+
+msgid "rankingDiffiNow"
+msgstr "当前"
+msgid "indexTitle"
+msgstr "名次"
+
+
+msgid "overScoreTextLeft"
+msgstr "第"
+msgid "overScoreTextRight"
+msgstr "名"
+msgid "overPerfectTextLeft"
+msgstr "第"
+msgid "overPerfectTextRight"
+msgstr "名"
+
+
+msgid "setDifficultyChooseTitle"
+msgstr "选择难度"
